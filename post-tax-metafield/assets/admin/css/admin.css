@@ -1,0 +1,26 @@
+
+.fields{
+ background: #ccc;
+ padding: 20px;
+}
+.fields-container{
+  padding: 20px;
+}
+.label-c{
+  width: 20%;
+  float: left;
+}
+.label-c label{
+	line-height: 30px;
+}
+.input-c{
+  width: 80%;
+  float: left;
+
+}
+.input-c input{
+	
+}
+.float-c{
+	clear:both;
+}
